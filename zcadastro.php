@@ -1,0 +1,1 @@
+<?php require "../zcadastro.php"; ?>
